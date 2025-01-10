@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Service
@@ -17,6 +17,12 @@ sidebar_position: 4
 - To add a new service, click on the **Add New** button. Fill all the required fields and click on the **Submit** button to save the service.
 <!-- image -->
 ![Add Service](./img/6.png)
+
+## Here is how to add faq in a service !
+
+- To add faq in a service, click on the **View** button of the service list. Fill all the required fields and click on the **Submit** button to save the faq.
+<!-- image -->
+![Add FAQ](./img/18.png)
 
 ## Here is how to edit and delete a service !
 

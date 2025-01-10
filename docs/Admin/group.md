@@ -5,7 +5,7 @@ sidebar_position: 6
 # Service
 
 
-- In this section, the admin can create services for users focused on specific gymnastics sports and fitness activities and assign the best trainers to them.
+- In this section, the admin can create services for users focused on specific sports and physical activities and assign the best coach to them.
 - Admin will be able to see all the existing services.
 - Admin can search for a specific service by using the **search bar**.
 

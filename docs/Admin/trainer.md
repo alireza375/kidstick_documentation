@@ -23,12 +23,6 @@ sidebar_position: 3
 
 ![View Trainer](./img/6.png)
 
-## Here is how you can reset coach password !
-
-- In this section, the admin will be able to reset coach password by clicking the **Reset Password** action button.
-
-![Reset Password](./img/r.png)
-
 
 ## Here is how you can delete coach !
 
