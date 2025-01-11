@@ -4,11 +4,11 @@ sidebar_position: 7
 
 # Blog
 
-- In this section, the trainer can create blog posts for the site.
+- In this section, the coach can create blog posts for the site.
 
-- In this section, the trainer will be able to see all the existing blogs.
+- In this section, the coach will be able to see all the existing blogs.
 
-- Trainer will be able to search the blog by using the **search bar**.
+- Coach will be able to search the blog by using the **search bar**.
 
 
 <!-- image -->
