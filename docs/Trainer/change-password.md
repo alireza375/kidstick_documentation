@@ -9,5 +9,6 @@ sidebar_position: 8
 - Trainers can change their password by entering the old password and then current password and the new password.
 
 - After entering all required feilds, trainers can click the **Save Change** button to set the new password.
-<!-- image -->
+
+
 ![Change Password](./img/pro4.png)
