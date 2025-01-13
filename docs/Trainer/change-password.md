@@ -10,3 +10,4 @@ sidebar_position: 8
 
 - After entering all required feilds, trainers can click the **Save Change** button to set the new password.
 <!-- image -->
+![Change Password](./img/pro4.png)

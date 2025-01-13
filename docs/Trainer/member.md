@@ -4,18 +4,11 @@ sidebar_position: 2
 
 # Member
 
-- The member section allows trainers to assign members to groups.
+- The member section allows coaches to assign members to services.
 
-- To add a new assigned member trainer can assign a new member to a specific "Group" or specific group with multiple "User".
-
-<!-- image -->
-# Here is how to add assigned member !
-
-- In this section, the trainer will be able to add the assigned member by clicking the "Add Member" button and fill the required details and click the "Save Changes" button to save the assigned member.
+- In this section, the coach will be able to see all the existing members that user has enrolled for a specific service.
 
 <!-- image -->
+![Member](./img/member.png)
 
-<!-- image -->
-
-
-- To delete the assigned member by clicking the "Delete" action button.
+- In here coach can see the member details.

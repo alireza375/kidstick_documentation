@@ -4,19 +4,16 @@ sidebar_position: 3
 
 
 
-# Groups
+# Services
 
-- In this section, the trainer will be able to see all the existing groups that admin has assigned.
+- In this section, the coach will be able to see all the existing services that admin has assigned.
 
-- Trainer can **view** the group and by clicking view action button and trainer will be able to see the group members table.
+![Group](./img/ser1.png)
 
-
-<!-- image -->
-
-- By clicking **view** action button, trainer will be able to see the group members details.
+- Coach can view the service details and by clicking **View Details** button and coach will be able to see the service details.
 
 
-<!-- image -->
+![Group](./img/ser2.png)
 
+- Coach can announce the service by clicking **Add Notice** button if there is any announcement or important notice
 
-<!-- image -->
